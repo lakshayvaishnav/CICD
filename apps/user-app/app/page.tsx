@@ -9,6 +9,18 @@ export default async function Page() {
   console.log("hello testing");
   console.log("hello testing");
   console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
+  console.log("hello testing");
   if (session?.user) {
     redirect("/dashboard");
   } else {
